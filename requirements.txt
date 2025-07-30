@@ -1,0 +1,7 @@
+langchain
+openai
+chromadb
+sentence-transformers
+PyMuPDF
+streamlit
+mistralai
